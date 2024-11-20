@@ -1,0 +1,2 @@
+INDEX VERSION 1.126+C:\Users\grblake\Desktop\AndroidShadersShadowMapping\.metadata\.plugins\org.eclipse.jdt.core
+4100768086.index
